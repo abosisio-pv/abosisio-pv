@@ -55,6 +55,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abosisio-pv&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abosisio-pv)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abosisio-pv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
